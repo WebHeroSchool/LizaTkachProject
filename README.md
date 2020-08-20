@@ -1,1 +1,1 @@
-# LizaTkachProject
+# LizaTkachProjectJS
